@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning N/A
 - 💞️ I’m looking to collaborate on PHPMailer
 - 📫 How to reach me contact(at)perfect7.eu or koutavaki1000(at)gmail.com
-- 😄 Pronouns: Stop/pro/nouns/now
+- 😄 Pronouns: N/A
 - ⚡ Fun fact: N/A
 
 <!---
